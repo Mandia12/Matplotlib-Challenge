@@ -1,4 +1,4 @@
-# Mod5-Challenge
+# Matplotlib-Challenge
 
 Description:
 
